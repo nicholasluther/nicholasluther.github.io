@@ -18,12 +18,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: nick.luther@berkeley.edu
   facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: nicholasluther
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
